@@ -1,0 +1,9 @@
+RandomSat/
+CNF/
+cmake-build-debug/
+build/
+solveClauses/
+failClauses/
+successClauses/
+solveClauses64/
+solveClauses128/
